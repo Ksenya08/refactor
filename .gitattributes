@@ -5,8 +5,8 @@
 
 # These files are text and should be normalized (Convert crlf => lf)
 *.php text
-*.css diff
-*.js diff
+*.css text
+*.js text
 *.htm text
 *.html text
 *.xml text

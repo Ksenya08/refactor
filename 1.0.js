@@ -1,4 +1,4 @@
-﻿document.forma1.reset();
+document.forma1.reset();
 
 
 function translation (conversion){
